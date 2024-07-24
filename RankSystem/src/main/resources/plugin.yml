@@ -1,0 +1,9 @@
+name: RankSystem
+version: '${project.version}'
+main: de.merix.ranksystem.RankSystem
+api-version: '1.20'
+commands:
+  setrank:
+    description: Set a rank for a player
+  test:
+    description: Permissions Test command

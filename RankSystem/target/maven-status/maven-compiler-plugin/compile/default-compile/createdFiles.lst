@@ -1,0 +1,7 @@
+de\merix\ranksystem\managers\NametagManager.class
+de\merix\ranksystem\managers\RankManager.class
+de\merix\ranksystem\commands\TestCommand.class
+de\merix\ranksystem\commands\SetRankCommand.class
+de\merix\ranksystem\storage\Rank.class
+de\merix\ranksystem\listeners\RankListeners.class
+de\merix\ranksystem\RankSystem.class
